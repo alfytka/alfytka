@@ -1,10 +1,2 @@
-## Hi there 👋
-
-<!--
-**alfytka/alfytka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on Universitas Terbuka
-- 🌱 I’m currently learning Inertia/React.js
+## Hi vlog, welcome to my guys 👋
+I'm Alfitka, 🔭 I'm a Junior Web Developer with 1 year of experience. 🌱 I'm currently learning Inertia/React.js with Laravel 
